@@ -2,7 +2,7 @@ html,
 body {
     font-family: 'casino-sub', sans-serif;
     background-image: url("./assets/photos/vintage-green.png");
-    min-height: 90vh;
+    min-height: 100vh;
     margin: 0;
     padding: 0;
     display: flex;
@@ -28,9 +28,10 @@ h1 {
 
 h2 {
     text-align: center;
-    color: #b19b46;
-    font-size: 18px;
+    color: #ae9b53;
+    font-size: large;
     letter-spacing: 2px;
+    margin: 0 20px;
 }
 
 /* Form Container */
@@ -104,6 +105,7 @@ input {
 #clear {
     margin-bottom: 25px;
 }
+
 
 span {
     color: white;
@@ -180,15 +182,15 @@ span {
 /* Footer */
 
 h3 {
-    font-size: 13px;
+    font-size: 15px;
     color: #071716;
 }
 
 .myFooter {
     border-top: 4px solid #b19b46;
-    min-height: fit-content;
+    min-height: 15vh;
     padding: 20px;
-    margin-top: 50px;
+    margin-top: 10vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -266,7 +268,6 @@ h3 {
     }
 
     h2 {
-        font-size: 16px;
         line-height: 1.6;
         padding: 0 15px;
     }
@@ -287,4 +288,5 @@ h3 {
         margin: auto;
         background-color: transparent;
     }
+
 }
