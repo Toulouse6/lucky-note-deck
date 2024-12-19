@@ -1,12 +1,20 @@
-# Lucky Note Deck
+## Lucky Note Deck
 
-A simple and stylish to-do list application that uses JavaScript, HTML, and CSS to help you manage your tasks efficiently, 
-saving your tasks directly into local storage.
+<img align="right" src="app-screenshot.png" alt="app-screenshot" width="350">
 
-## Features
+A user-friendly, poker-themed to-do list application designed for efficient task management, seamlessly saving tasks to the user's local storage for easy access.
 
-- Add a Task
-- Remove a Task
-- Persistent Storage
-- Poker-Themed Design
-- Responsive Design
+**Git Page:** 
+<br>https://toulouse6.github.io/lucky-note-deck/
+
+---
+
+**Technologies:**
+
+- **JavaScript ES6**
+- **CSS3**
+- **HTML5**
+
+---
+
+**Author**: Tal Argaman
